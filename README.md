@@ -1,4 +1,4 @@
-# Projeto-1-bootcamp-santander-dio
+# Cibersegurança#2-bootcamp-santander-dio
 Documentação do Projeto — Simulação de Ataques de Força Bruta (Kali + Medusa + Ambientes Vulneráveis)
 
 Resumo: documento detalhado para implementação, testes e registro de atividades de um laboratório de segurança que simula ataques de força bruta contra serviços (ex.: FTP, formulário web — DVWA, SMB) usando Kali Linux e a ferramenta Medusa, com Metasploitable 2 e DVWA como alvos. O foco é pedagógico: entender vetores de ataque, registrar evidências e propor medidas de mitigação defensivas.
